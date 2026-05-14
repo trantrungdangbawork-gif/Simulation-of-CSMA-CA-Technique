@@ -73,8 +73,4 @@ python main.py
 
 ---
 
-## Author
 
-Dang Ba Tran Trung
-VNUHCM – University of Science
-Electronics and Telecommunications Engineering
