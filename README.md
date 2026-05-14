@@ -1,5 +1,4 @@
 # Simulation-of-CSMA-CA-Technique
-# CSMA/CA Wireless Network Simulation
 
 ## Overview
 
